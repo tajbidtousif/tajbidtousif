@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shah Tajbid Tousif</h1>
+<h1 align="center">Hey there!  👋, I'm Shah Tajbid Tousif</h1>
 <h3 align="center">A Junior Java Developer & Digital Marketing Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajbidtousif&label=Profile%20views&color=0e75b6&style=flat" alt="tajbidtousif" /> </p>
