@@ -1,9 +1,7 @@
 <h1 align="center">👋 Good to have you here!!</h1>
 <h3 align="center">A Junior Java Developer & Digital Marketing Expert</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tajbidtousif&label=Profile%20views&color=0e75b6&style=flat" alt="tajbidtousif" /> </p>
 
-<p align="left"> <a href="https://github.com/tajbidtousif/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tajbidtousif" alt="tajbidtousif" /></a> </p>
 
 - 🔭 I’m currently working on **Java Development**
 
@@ -16,6 +14,8 @@
 
 
 <p>
+  
+  <h3 align="left">My competitive programming status:</h3>
 
 <a href="https://codeforces.com/profile/tajbidtousif"><img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/tajbidtousif&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400" alt="Tousif's profile on Codeforces" title="Tousif's profile on Codeforces"></a>
   </p>
