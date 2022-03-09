@@ -15,7 +15,7 @@
 
 <p>
   
-  <h3 align="left">My competitive programming status:</h3>
+  <h4 align="left">My competitive programming status:</h4>
 
 <a href="https://codeforces.com/profile/tajbidtousif"><img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/tajbidtousif&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400" alt="Tousif's profile on Codeforces" title="Tousif's profile on Codeforces"></a>
   </p>
