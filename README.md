@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shah+Tajbid+Tousif;Nice+to+meet+you!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Good+To+See+You,+Here!+👋;This+is+Shah+Tajbid+Tousif;Nice+to+meet+you!&center=true&size=25">
   </a>
 <h3 align="center">A Junior Java Developer & Digital Marketing Expert</h3>
 
