@@ -13,6 +13,9 @@
 - 💬 Ask me for any kind of **Digital Marketing Services**
 
 - 📫 How to reach me **tajbidtousif@gmail.com**
+  
+- ⚡ Fun fact Fifa is love**   
+  
 
 
 
