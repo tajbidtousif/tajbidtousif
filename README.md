@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **Java Development**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently doing **Competitive Programming**
+- 🌱 I’m currently incresing **Problem Solving Skills**
 
 - 💬 Ask me for any kind of **Digital Marketing Services**
 
