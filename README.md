@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Good+To+See+You+Here!+👋;This+is+Shah+Tajbid+Tousif;&center=true&size=25">
   </a>
-<h3 align="center">A Junior Java Developer & Digital Marketing Expert</h3>
+<h3 align="center">A Developer</h3>
 
 
 
