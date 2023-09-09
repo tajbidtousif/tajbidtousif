@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tajbidtousif@gmail.com**
   
-- ⚡ Fun fact Fifa is love 
+- ⚡ Fun fact lets play fifa
   
 
 
