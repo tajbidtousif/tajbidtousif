@@ -19,13 +19,6 @@
 
 
 
-<p>
-  
-  <h4 align="left">My competitive programming status:</h4>
-
-<a href="https://codeforces.com/profile/tajbidtousif"><img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/tajbidtousif&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400" alt="Tousif's profile on Codeforces" title="Tousif's profile on Codeforces"></a>
-  </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shah-tajbid-tousif-5a3151211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah-tajbid-tousif-5a3151211" height="30" width="40" /></a>
